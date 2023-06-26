@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+.heading{
+color: silver;
+font-size: 60px;
+font-style: italic;
+text-align:center;
+text-decoration:double underline chocolate;
+}
+.container{
+  width: 800px;
+  height: 400px;
+ background-image: url(./quaid.image.jpg);
+ margin: 50px auto;
+}
+.paragraph{
+  width: 600px;
+  height: 20px;
+  font-size: 20px;
+  margin: auto;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.border{
+  width: 1100px;
+  height: 500px;
+  background-size: 20px 30px;
+  margin: auto;
+  background-color:skyblue;
+  align-items: center;
+}
+.content{
+  font-size:20px;
+  color: black;
+  text-align: center;
+  background-image: url(./quaid.image2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 400px;
+}

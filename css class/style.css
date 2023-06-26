@@ -1,0 +1,41 @@
+.container {
+ width: 1300px;
+ height: 600px;
+ background-color: black;
+ text-align: center;
+}
+.heading  { 
+color: antiquewhite;
+text-align: center;
+font-size: 88px;
+margin-bottom: 20px;
+}
+.paragrape {
+ color:antiquewhite;
+ font-size: 20px;
+ text-align: center;
+}
+.button1 {
+   background-color: green;
+   color: white;
+   border-radius: 100px;
+   margin-bottom: 3px;
+   font-size: 20px;
+   text-align: center;
+}
+.button2 {
+ background-color: aliceblue;
+ color: black;
+ border-radius: 100px;
+ margin-bottom: 3px;
+ font-size: 20px;
+ text-align: center;
+}
+.button3 {
+  background-color: pink;
+  color: black;
+  border-radius: 100px;
+  margin-bottom: 3px;
+  font-size: 20px;
+  text-align: center;
+}

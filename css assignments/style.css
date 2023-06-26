@@ -1,0 +1,85 @@
+.container{
+   width: 800px;
+   height: 600px;
+   margin-left: 300px;
+   border: 1px solid black; 
+   margin-top: 40px;
+   background-color: bisque;
+}
+.container2{
+   width: 700px;
+   height: 500px;
+   margin: 50px;
+   background-color: aliceblue;
+   border: 2px solid peru; 
+   }
+   .heading{
+    border: 3px solid black;
+    text-align: center;
+    text-decoration: underline;
+    background-color: aquamarine;
+   }
+   .paragraph{
+    font-size: large;
+    border: 2px solid rebeccapurple;
+    text-align: center
+   }
+   .img{
+    width: 700px;
+    height: 250px;
+    border: 3px solid black;
+   }
+   .em{
+    border: 1px solid purple;
+   }
+   .im{
+    border: 1px solid purple;
+   }
+  .bm{
+    border: 1px solid purple;
+  }
+  .sm{
+    border: 1px solid purple;
+  }
+  .box{ 
+    width: 800px;
+    height: 600px;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 300px;
+    background-color: beige;
+  }
+  .heading1{
+    text-align:center;
+    text-decoration:underline;
+  }
+.content{
+  font-size: larger;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

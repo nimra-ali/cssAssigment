@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 800px;
+    height: 600px;
+    margin: 240px;
+    position: fixed;
+    margin-top: 20px;
+    border: 2px solid black;
+    background-image: url(./image.1.jpg);
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: black;
+    text-decoration: underline;
+}
+.img1{
+    width: 300px;
+    height: 200px;
+    margin-left: 40px;
+    border: 2px solid black;
+}
+.img2{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border: 2px solid black;
+}
+.img3{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    padding: 2px;
+    top: 0;
+    margin-top :335px;
+    margin-left: 440px;
+    border: 2px solid black;
+}
+.img4{
+   width: 300px;
+   height: 200px;
+   top: 70px;
+   position: absolute;
+   margin-left: 450px; 
+   margin-bottom: 790px;
+   border: 2px solid black;
+}
